@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis:7.2.0
 spryker/redis-commander:0.8.0
+mysql:8.0.32
