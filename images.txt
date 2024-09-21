@@ -7,4 +7,4 @@ xhofe/alist:latest
 spryker/redis-commander:0.8.0
 redis:7.2.0
 postgres:13.16
-
+fatedier/frps:v0.60.0
